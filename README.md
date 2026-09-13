@@ -11,7 +11,7 @@ Age groups
 
 States
 
-Condition groups contributing to deaths
+COVID-19 Deaths by Condition Group
 
 Number of mentions of health conditions
 
